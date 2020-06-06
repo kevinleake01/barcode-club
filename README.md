@@ -14,8 +14,10 @@ https://forqrcode.com/<br>
 https://www.qrcode-zebra.com/<br>
 https://www.qrstuff.com/<br>
 http://goqr.me/<br>
+https://qrd.by/<br>
 http://www.free-qr-code.net/<br>
 https://www.qrcode-monkey.com/<br>
+https://www.qrcodechimp.com/<br>
 https://www.qr-code-generator.com/<br>
 https://www.unitag.io/qrcode<br>
 https://www.the-qrcode-generator.com/<br>
@@ -27,9 +29,11 @@ https://uqr.me/qr-code-generator/<br>
 https://zxing.appspot.com/generator<br>
 http://beqrious.com/qr-code-generator/<br>
 https://www.barcodesinc.com/generator/index.php<br>
+https://qrickit.com/index.php<br>
 https://blog.qr4.nl/Online-QR-Code_Decoder.aspx<br>
 http://qrcode.azurewebsites.net/<br>
 https://www.visualead.com/qr-code-generator/<br>
+https://www.beaconstac.com/qr-code-generator<br>
 https://www.terryburton.co.uk/barcodewriter/generator/<br>
 http://www.i-nigma.com/createbarcodes.html<br>
 https://duckduckgo.com/?q=%22QR+code+generators%22&ia=answer<br>
