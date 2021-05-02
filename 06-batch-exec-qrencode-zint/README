@@ -1,0 +1,12 @@
+The files batch-exec-qrencode.c and batch-exec-zint.c are programs that will let you
+create QR Codes from a line of text, or text from a file using Qrencode or Zint.
+
+Please edit the line of text in batch-exec-qrencode.c or batch-exec-zint.c to suit
+your needs. To run the program using Qrencode, do this:
+
+  gcc batch-exec-qrencode.c; ./a.out
+
+And for Zint:
+
+  gcc batch-exec-zint.c; ./a.out
+
