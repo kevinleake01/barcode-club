@@ -3,9 +3,9 @@
 #
 # --- BATCH-EXEC-ZINT-0002.C ---
 #
-# This is a batch-exec file to convert a line of text, or text from a file into QR Codes
-# using Zint. Please edit the line of text to suit your needs. The QR Codes will be
-# saved as PNG files.
+# This is a batch-exec file to convert text from a file into QR Codes
+# using Zint. Please edit the line of text to suit your needs. The QR
+# Codes will be saved as PNG files.
 #
 # To run the program:
 #

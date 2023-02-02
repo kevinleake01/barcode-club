@@ -10,3 +10,22 @@ And for Zint:
 
   gcc batch-exec-zint.c; ./a.out
 
+-------------------------------------------
+Other versions:
+
+batch-exec-qrencode-0001.c - 10x Batch line of text
+batch-exec-qrencode-0002.c - 10x Batch from file
+batch-exec-qrencode-0003.c - 50x Batch line of text
+batch-exec-qrencode-0004.c - 100x Batch line of text
+
+batch-exec-zint-0001.c - 10x Batch line of text
+batch-exec-zint-0002.c - 10x Batch from file
+batch-exec-zint-0003.c - 50x Batch line of text
+batch-exec-zint-0004.c - 100x Batch line of text
+
+Zint also allows you to create other barcodes, such as AZTEC, PDF417, AND DataMatrix.
+
+batch-exec-zint-0005.c - 25x Batch line of text AZTEC
+batch-exec-zint-0006.c - 25x Batch line of text PDF417
+batch-exec-zint-0007.c - 25x Batch line of text DataMatrix
+
