@@ -29,3 +29,11 @@ batch-exec-zint-0005.c - 25x Batch line of text AZTEC
 batch-exec-zint-0006.c - 25x Batch line of text PDF417
 batch-exec-zint-0007.c - 25x Batch line of text DataMatrix
 
+Zint will also allow you to have a whitespace border for your barcodes, and they are:
+
+batch-exec-zint-0008.c - 100x Batch line of text QR
+batch-exec-zint-0009.c - 100x Batch line of text AZTEC
+batch-exec-zint-0010.c - 100x Batch line of text PDF417
+batch-exec-zint-0011.c - 100x Batch line of text DataMatrix
+
+
