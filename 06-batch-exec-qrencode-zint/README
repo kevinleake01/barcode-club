@@ -36,4 +36,14 @@ batch-exec-zint-0009.c - 100x Batch line of text AZTEC
 batch-exec-zint-0010.c - 100x Batch line of text PDF417
 batch-exec-zint-0011.c - 100x Batch line of text DataMatrix
 
+You can also change the whitespace borders from the default values of --whitesp=5 --vwhitesp=5.
+The list below all have 100x Batch line of text QR with the --whitesp and --vwhitesp values
+listed as follows:
+
+batch-exec-zint-0012.c - --whitesp=10 --vwhitesp=10
+batch-exec-zint-0013.c - --whitesp=20 --vwhitesp=20
+batch-exec-zint-0014.c - --whitesp=30 --vwhitesp=30
+batch-exec-zint-0015.c - --whitesp=40 --vwhitesp=40
+batch-exec-zint-0016.c - --whitesp=50 --vwhitesp=50
+
 
