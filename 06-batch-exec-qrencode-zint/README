@@ -17,6 +17,7 @@ batch-exec-qrencode-0001.c - 10x Batch line of text
 batch-exec-qrencode-0002.c - 10x Batch from file
 batch-exec-qrencode-0003.c - 50x Batch line of text
 batch-exec-qrencode-0004.c - 100x Batch line of text
+batch-exec-qrencode-0005.c - 100x Batch from file, indexed from qr_0001.txt to qr_0100.txt
 
 batch-exec-zint-0001.c - 10x Batch line of text
 batch-exec-zint-0002.c - 10x Batch from file
@@ -29,7 +30,8 @@ batch-exec-zint-0005.c - 25x Batch line of text AZTEC
 batch-exec-zint-0006.c - 25x Batch line of text PDF417
 batch-exec-zint-0007.c - 25x Batch line of text DataMatrix
 
-Zint will also allow you to have a whitespace border for your barcodes, and they are:
+Zint will also allow you to have a whitespace border with the values of --whitesp=5 --vwhitesp=5
+for your barcodes, and they are:
 
 batch-exec-zint-0008.c - 100x Batch line of text QR
 batch-exec-zint-0009.c - 100x Batch line of text AZTEC
@@ -45,5 +47,12 @@ batch-exec-zint-0013.c - --whitesp=20 --vwhitesp=20
 batch-exec-zint-0014.c - --whitesp=30 --vwhitesp=30
 batch-exec-zint-0015.c - --whitesp=40 --vwhitesp=40
 batch-exec-zint-0016.c - --whitesp=50 --vwhitesp=50
+
+And from a 100x Batch from file, indexed from qr_0001.txt to qr_0100.txt:
+
+batch-exec-zint-0017.c - --whitesp=5 --vwhitesp=5
+batch-exec-zint-0018.c - --whitesp=10 --vwhitesp=10
+batch-exec-zint-0019.c - --whitesp=25 --vwhitesp=25
+batch-exec-zint-0020.c - --whitesp=50 --vwhitesp=50
 
 
