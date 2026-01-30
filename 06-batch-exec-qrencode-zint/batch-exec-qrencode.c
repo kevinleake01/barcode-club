@@ -19,9 +19,8 @@
 int main(int argc, char *argv[])
 {
   system("qrencode -8 -o qr_0001.png \"https://facebook.com/\"");
-  system("qrencode -8 -o qr_0002.png \"https://twitter.com/\"");
-  system("qrencode -8 -o qr_0003.png \"https://google.com/\"");
-  system("qrencode -8 -o qr_0004.png \"A line of text\"");
-  system("qrencode -8 -o qr_0005.png -r text.txt");
+  system("qrencode -8 -o qr_0002.png \"https://google.com/\"");
+  system("qrencode -8 -o qr_0003.png \"A line of text\"");
+  system("qrencode -8 -o qr_0004.png -r text.txt");
 }
 
